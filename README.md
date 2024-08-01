@@ -7,7 +7,7 @@ The Diwali sales analysis project aims to provide insights into sales performanc
 - **Pandas**: For data manipulation and analysis, providing data structures like DataFrames.
 - **Matplotlib**: For creating static, interactive, and animated visualizations.
 - **Seaborn**: For making statistical graphics and enhancing Matplotlib's visualizations.
-  ## Data Analysis
+## Data Analysis
 **The data analysis includes:**
 -Calculating monthly sales trends.
 -Identifying top-selling products.
